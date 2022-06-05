@@ -1,11 +1,13 @@
 # test
 Internet speed testing tool... 
 
-
-# When Your Data On
+<details id="missing-code-coverage">
+<summary>Screen Shot</summary>
+ When Your Data On
 <img src="ss/Screenshot_20220605-074118.jpg" class="center" alt="ss"></img>
-# When Your Data Off
+When Your Data Off
 <img src="ss/Screenshot_20220605-073620.jpg" class="center" alt="ss"></img>
+</details><br>
 <details id="missing-code-coverage">
 <summary>HOW TO INSTALL</summary>
 <li>apt update && apt upgrade</li>
